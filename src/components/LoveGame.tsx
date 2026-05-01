@@ -503,7 +503,7 @@ export function LoveGame() {
                     className="bg-destructive/10 rounded-xl p-3 mb-4"
                   >
                     <p className="text-destructive text-sm font-medium">
-                      P.S. Tumne {noCount} baar No dabane ki koshish ki thi 😤
+                      Tumne {noCount} baar No dabane ki koshish ki thi 😤
                       <br />
                       At the End Ashish Ke Pyaar me Pad hi Gai 🥰🫣💕
                     </p>
